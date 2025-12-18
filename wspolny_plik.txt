@@ -1,1 +1,2 @@
 "Tekst pocz¥tkowy" 
+"Linia dodan przez studentaA" 
